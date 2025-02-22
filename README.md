@@ -28,7 +28,7 @@ A real-time chatting application built using **Java**, designed for seamless and
 
 ### 2️⃣ Navigate to the project directory
 ```bash
- cd chat-application-java
+ cd chatting-application-java
 ```
 
 ### 3️⃣ Compile the project
