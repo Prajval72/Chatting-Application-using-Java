@@ -15,7 +15,7 @@ A real-time chatting application built using **Java**, designed for seamless and
 ## 🛠️ Technologies Used
 
 - **Java (Swing for UI, Sockets for Networking)**
-- **Visual Code**
+- **Visual Studio**
 
 ---
 
